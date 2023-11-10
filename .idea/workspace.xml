@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cb13e5d-e0f4-4dae-b613-e777a976dfb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CityVisualization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TSPGeneticAlgorithm.java" afterDir="false" />
+    <list default="true" id="1cb13e5d-e0f4-4dae-b613-e777a976dfb0" name="Changes" comment="finished the genetic algorithem to solve the travaling sails person">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/xchart_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geneticAlgorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/geneticAlgorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CityVisualization.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TSPGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TSPGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alex/javafx-sdk-17.0.8/lib",
+    "last_opened_file_path": "C:/Users/alex/Downloads/xchart-3.8.5/xchart-3.8.5",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -58,6 +56,18 @@
       <option name="presentableId" value="Default" />
       <updated>1696619543753</updated>
     </task>
+    <task id="LOCAL-00001" summary="finished the genetic algorithem to solve the travaling sails person">
+      <created>1696714407553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696714407553</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished the genetic algorithem to solve the travaling sails person" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the genetic algorithem to solve the travaling sails person" />
   </component>
 </project>
